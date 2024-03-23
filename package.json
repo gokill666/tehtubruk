@@ -1,0 +1,24 @@
+{
+  "name": "tehtubruk",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gokill666/tehtubruk"
+  },
+  "keywords": [
+    "web3",
+    "paling",
+    "tot"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gokill666/tehtubruk/issues"
+  },
+  "homepage": "https://github.com/gokill666/tehtubruk#readme"
+}
